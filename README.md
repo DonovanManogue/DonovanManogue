@@ -3,7 +3,7 @@
 ### :books: I'm currently enrolled at MTSU for a M.S. Data Science
 ### 🔭 I’m currently working on Data Analytics & Data Science Certificates 
 ### ⚡Fun fact: Tengo dos gatos, uno gordo y uno flaco. Sus nombres Spencey y Mochi.
-<img align="left" alt="Coding" width="600" src="https://gifer.com/3HeQ">
+<img align="left" alt="Coding" width="600" src="https://media2.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=6c09b9525tw8tyt6273s5v93v2ajm6f1ypt0j9l2543jv2nf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <!--
 **DonovanManogue/DonovanManogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
