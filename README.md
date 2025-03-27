@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Donovan Manogue
 ### :books: I'm currently enrolled at MTSU for a M.S. Data Science
-### 🔭 I’m currently working on Data Analytics & Data Science Certificates 
+### 🔭 I’m currently working on Data Analytics Certs and my Data Science Master's Degree
 ### ⚡Fun fact: Tengo tres gatos, dos gordo y uno flaco. Sus nombres Spencey, Mochi, y Wasabi.
 <img align="left" alt="Coding" width="600" src="https://media2.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=6c09b9525tw8tyt6273s5v93v2ajm6f1ypt0j9l2543jv2nf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <!--
